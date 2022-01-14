@@ -1,1 +1,1 @@
-Exercises made for https://fullstackopen.com/
+This project is the exercises of https://fullstackopen.com/.
