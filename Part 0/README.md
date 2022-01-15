@@ -6,7 +6,7 @@ In this part, we will familiarize ourselves with the practicalities of taking th
   <il> 
     <a href="https://github.com/Victormpr1337/Full-Stack-Open-2022-Exercises/blob/main/Part%200/0.4.md"><ul> 0.4: new note </ul></a>
     <a href="https://github.com/Victormpr1337/Full-Stack-Open-2022-Exercises/blob/main/Part%200/0.5.md"><ul> 0.5: Single page app </ul></a>
-    <ul> 0.6: New note </ul>
+    <a href="https://github.com/Victormpr1337/Full-Stack-Open-2022-Exercises/blob/main/Part%200/06.md"><ul> 0.6: New note </ul></a>
   </il>  
   <h2> Diagrams tool </h2>
   https://www.websequencediagrams.com/
