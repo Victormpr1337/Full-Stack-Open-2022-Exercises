@@ -8,5 +8,5 @@ In this part, we will familiarize ourselves with the practicalities of taking th
     <ul> 0.5: Single page app </ul>
     <ul> 0.6: New note </ul>
   </il>  
-  <h2> Diagrams are made by </h2>
+  <h2> Diagrams tool </h2>
   https://www.websequencediagrams.com/
